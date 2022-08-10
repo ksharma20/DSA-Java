@@ -1,6 +1,3 @@
-# Videos
-- [Complete Recursion Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
-
 # Problems
 
 ## Easy

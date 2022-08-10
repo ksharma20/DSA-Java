@@ -1,5 +1,3 @@
-# [Video Link](https://youtu.be/TAtrPoaJ7gc)
-
 ## Write Java programs for the following:
 
 1. Write a program to print whether a number is even or odd, also take
